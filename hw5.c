@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-int n, d;
+int n;
 int b;
 char s[];
 
