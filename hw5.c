@@ -7,7 +7,6 @@ int n;
 int b;
 char s[];
 
-
 int main()
 {
     scanf ("%d", &n);
