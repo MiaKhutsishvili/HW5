@@ -5,7 +5,7 @@
 
 int n;
 int b;
-char s[];
+char s[1000000];
 
 int main()
 {
